@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @marko-skoric
-- 👀 I’m interested in object-oriented programming, databases, and embedded systems.
+- 👀 I’m interested in object-oriented programming and also databases.
 - 🌱 I’m currently learning C++.
-- 💞️ I’m looking to collaborate on everything related to things previously mentioned.
+- 💞️ I’m looking to collaborate on everything related to the C++ language and OOP in general.
 - 📫 How to reach me: marko.skoric1878@gmail.com
 
 <!---
